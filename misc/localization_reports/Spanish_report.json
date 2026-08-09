@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-06 13:56:14",
+    "last_updated": "2026-08-09 18:20:15",
     "language": "Spanish",
-    "overall_completion": "86.45 %",
-    "total_found": 5238,
+    "overall_completion": "86.71 %",
+    "total_found": 5254,
     "total_required": 6059,
     "orphan_count": 0,
     "missing_id_count": 109
@@ -132,11 +132,10 @@
       ]
     },
     "campaign\\Edge of the Earth": {
-      "completion": "92.61 %",
-      "stats": "213 / 230",
+      "completion": "93.04 %",
+      "stats": "214 / 230",
       "missing": [
         "CB08",
-        "CG08",
         "CL0801",
         "CL0802",
         "SB0801",
@@ -160,22 +159,20 @@
       "missing": []
     },
     "campaign\\Return to Night of the Zealot": {
-      "completion": "85.29 %",
-      "stats": "29 / 34",
+      "completion": "88.24 %",
+      "stats": "30 / 34",
       "missing": [
         "CB01r",
-        "CG01r",
         "SB01r01",
         "SB01r02",
         "SB01r03"
       ]
     },
     "campaign\\Return to The Circle Undone": {
-      "completion": "85.14 %",
-      "stats": "63 / 74",
+      "completion": "86.49 %",
+      "stats": "64 / 74",
       "missing": [
         "CB05r",
-        "CG05r",
         "SB05r01",
         "SB05r02",
         "SB05r03",
@@ -188,11 +185,10 @@
       ]
     },
     "campaign\\Return to The Dunwich Legacy": {
-      "completion": "84.85 %",
-      "stats": "56 / 66",
+      "completion": "86.36 %",
+      "stats": "57 / 66",
       "missing": [
         "CB02r",
-        "CG02r",
         "SB02r01A",
         "SB02r01B",
         "SB02r02",
@@ -204,11 +200,10 @@
       ]
     },
     "campaign\\Return to The Forgotten Age": {
-      "completion": "81.01 %",
-      "stats": "64 / 79",
+      "completion": "82.28 %",
+      "stats": "65 / 79",
       "missing": [
         "CB04r",
-        "CG04r",
         "ES0415",
         "ES0416",
         "ES0417",
@@ -225,11 +220,10 @@
       ]
     },
     "campaign\\Return to The Path to Carcosa": {
-      "completion": "86.67 %",
-      "stats": "65 / 75",
+      "completion": "88.00 %",
+      "stats": "66 / 75",
       "missing": [
         "CB03r",
-        "CG03r",
         "SB03r01",
         "SB03r02",
         "SB03r03",
@@ -241,11 +235,10 @@
       ]
     },
     "campaign\\The Circle Undone": {
-      "completion": "93.93 %",
-      "stats": "201 / 214",
+      "completion": "94.39 %",
+      "stats": "202 / 214",
       "missing": [
         "CB05",
-        "CG05",
         "CL0501",
         "CL0502",
         "SB0501",
@@ -260,12 +253,10 @@
       ]
     },
     "campaign\\The Dream-Eaters": {
-      "completion": "94.96 %",
-      "stats": "245 / 258",
+      "completion": "95.74 %",
+      "stats": "247 / 258",
       "missing": [
         "CB06",
-        "CG06a",
-        "CG06b",
         "CL0601",
         "CL0602",
         "SB0601A",
@@ -279,12 +270,11 @@
       ]
     },
     "campaign\\The Drowned City": {
-      "completion": "89.74 %",
-      "stats": "245 / 273",
+      "completion": "90.11 %",
+      "stats": "246 / 273",
       "missing": [
         "11597",
         "CB11",
-        "CG11",
         "CL1101",
         "CL1102",
         "SB1101",
@@ -313,14 +303,13 @@
       ]
     },
     "campaign\\The Dunwich Legacy": {
-      "completion": "92.11 %",
-      "stats": "175 / 190",
+      "completion": "92.63 %",
+      "stats": "176 / 190",
       "missing": [
         "02243",
         "02290",
         "02298",
         "CB02",
-        "CG02",
         "CL0201",
         "CL0202",
         "SB0201A",
@@ -334,12 +323,11 @@
       ]
     },
     "campaign\\The Feast of Hemlock Vale": {
-      "completion": "92.78 %",
-      "stats": "244 / 263",
+      "completion": "93.16 %",
+      "stats": "245 / 263",
       "missing": [
         "10596",
         "CB10",
-        "CG10",
         "CL1001",
         "CL1002",
         "SB1001",
@@ -359,11 +347,10 @@
       ]
     },
     "campaign\\The Forgotten Age": {
-      "completion": "87.22 %",
-      "stats": "198 / 227",
+      "completion": "87.67 %",
+      "stats": "199 / 227",
       "missing": [
         "CB04",
-        "CG04",
         "CL0401",
         "CL0402",
         "CT0401",
@@ -394,11 +381,10 @@
       ]
     },
     "campaign\\The Innsmouth Conspiracy": {
-      "completion": "94.12 %",
-      "stats": "208 / 221",
+      "completion": "94.57 %",
+      "stats": "209 / 221",
       "missing": [
         "CB07",
-        "CG07",
         "CG07i",
         "CL0701",
         "CL0702",
@@ -413,8 +399,8 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "87.77 %",
-      "stats": "201 / 229",
+      "completion": "88.21 %",
+      "stats": "202 / 229",
       "missing": [
         "03043",
         "03060",
@@ -433,7 +419,6 @@
         "03283",
         "03316",
         "CB03",
-        "CG03",
         "CL0301",
         "CL0302",
         "SB0301",
@@ -447,8 +432,8 @@
       ]
     },
     "campaign\\The Scarlet Keys": {
-      "completion": "83.07 %",
-      "stats": "260 / 313",
+      "completion": "83.39 %",
+      "stats": "261 / 313",
       "missing": [
         "09557a",
         "09625b",
@@ -461,7 +446,6 @@
         "09749a",
         "09749b",
         "CB09",
-        "CG09",
         "CL0901",
         "CL0902",
         "HC0901",
