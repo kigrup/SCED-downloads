@@ -1,0 +1,29 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.1,
+      "Type": 0
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/9822760635453140272/E8F5E0F86C1B1E8F9406D288457450314DF058CF/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/11750458347607928128/7BBEB7A133175B657AD1DA194A6B261C71DFAA13/",
+    "WidthScale": 0
+  },
+  "GMNotes": "{\n  \"id\": \"CL1002\"\n}",
+  "GUID": "ca29d8",
+  "Hands": false,
+  "Name": "Custom_Tile",
+  "Nickname": "La fiesta del valle de la cicuta - Registro de Campaña",
+  "Transform": {
+    "scaleX": 7,
+    "scaleY": 1,
+    "scaleZ": 7
+  }
+}
