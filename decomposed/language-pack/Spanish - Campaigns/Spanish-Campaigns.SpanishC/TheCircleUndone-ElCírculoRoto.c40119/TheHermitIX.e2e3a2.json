@@ -1,0 +1,25 @@
+{
+  "CardID": 266309,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11138899195030575064/BC50914EFAE09311003AEA44CC5435473CB7FB00/",
+      "NumHeight": 4,
+      "NumWidth": 6,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR09\"\n}",
+  "GUID": "e2e3a2",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "El Ermitaño · IX",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

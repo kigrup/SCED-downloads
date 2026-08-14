@@ -1,0 +1,25 @@
+{
+  "CardID": 266312,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18334395539796932788/A3F4F6B95FEACE7FD39751D2F534F0D12B23028C/",
+      "NumHeight": 4,
+      "NumWidth": 6,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR12\"\n}",
+  "GUID": "523d77",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "El Ahorcado · XII",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

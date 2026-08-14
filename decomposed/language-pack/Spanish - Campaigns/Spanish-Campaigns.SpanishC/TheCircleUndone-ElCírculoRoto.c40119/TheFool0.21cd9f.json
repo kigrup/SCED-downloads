@@ -1,0 +1,25 @@
+{
+  "CardID": 266300,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14304094714143212786/852A0780A0A8A47F0F0F99D2ABC42266041DBB47/",
+      "NumHeight": 4,
+      "NumWidth": 6,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR00\"\n}",
+  "GUID": "21cd9f",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "El Loco · 0",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

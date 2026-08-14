@@ -1,0 +1,25 @@
+{
+  "CardID": 266311,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13618323391653985444/3D489DA754B9D7B11F1F9557A4EC10DC23083CAE/",
+      "NumHeight": 4,
+      "NumWidth": 6,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR11\"\n}",
+  "GUID": "d4282a",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "La Justicia · XI",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

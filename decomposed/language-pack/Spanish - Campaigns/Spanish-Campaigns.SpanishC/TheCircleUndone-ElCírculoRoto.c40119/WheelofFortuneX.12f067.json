@@ -1,0 +1,25 @@
+{
+  "CardID": 266310,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15968901241668243959/FCF08271300E3A8D8DD79F5618F8E5E9D292A563/",
+      "NumHeight": 4,
+      "NumWidth": 6,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR10\"\n}",
+  "GUID": "12f067",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "La Rueda De La Fortuna · X",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
