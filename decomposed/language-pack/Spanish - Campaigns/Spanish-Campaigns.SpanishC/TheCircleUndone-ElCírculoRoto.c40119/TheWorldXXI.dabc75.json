@@ -1,0 +1,23 @@
+{
+  "CardID": 266321,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12817626526458200454/3DEE612E91D50E8B5E30CC8F3688FF010CDEB890/",
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR21\"\n}",
+  "GUID": "dabc75",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "El Mundo · XXI",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

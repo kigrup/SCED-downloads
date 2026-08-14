@@ -1,0 +1,23 @@
+{
+  "CardID": 266316,
+  "CustomDeck": {
+    "2663": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706767619573/BC43BD2A94446B804BE325C7255D8179DEB2ABE8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11799191852828877107/35005F072AFA19A51861E8AC68253FFA7F1D87A4/",
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"TAR16\"\n}",
+  "GUID": "26ae32",
+  "LuaScript": "require(\"playercards/Tarotcard\")",
+  "Name": "Card",
+  "Nickname": "La Torre · XVI",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
